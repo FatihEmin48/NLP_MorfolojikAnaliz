@@ -1,4 +1,10 @@
-# NLP_MorfolojikAnaliz
+# Doğal Dil İşleme - Morfolojik Analiz
+---
+
+**Morfoloji**, kelimelerin yapısını ve kelimelerin kökleri, ekleri, zaman, kişi gibi özelliklerini inceleyen dilbilim dalıdır.
+
+**Doğal dil işlemede**, morfolojik analiz kelimeleri köklerine ayırmak ve gramer bilgilerini anlamak için kullanılır.
+
 
 
 ---
